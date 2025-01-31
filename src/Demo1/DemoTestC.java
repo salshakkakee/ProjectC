@@ -5,7 +5,7 @@ public class DemoTestC {
 		String result1 = getNumber(9);
 		String result2 = getNumber(-4);
 		String result3 = getNumber(0);
-		String result3 = getNumber(499);
+		String result4 = getNumber(499);
 		String result5 = getNumber(-499);
 
 		System.out.println(result1);
