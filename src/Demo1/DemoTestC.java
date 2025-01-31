@@ -5,10 +5,14 @@ public class DemoTestC {
 		String result1 = getNumber(9);
 		String result2 = getNumber(-4);
 		String result3 = getNumber(0);
+		String result3 = getNumber(499);
+		String result5 = getNumber(-499);
 
 		System.out.println(result1);
 		System.out.println(result2);
 		System.out.println(result3);
+		System.out.println(result4);
+		System.out.println(result5);
 	}
 
 	public static String getNumber(int number) {
